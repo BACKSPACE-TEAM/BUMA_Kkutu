@@ -1,6 +1,6 @@
 {
 	"server-name": "부마끄투",
 	"web-num-cpu": 1,
-	"game-num-cpu": 3,
-	"game-num-inst": 3
+	"game-num-cpu": 1,
+	"game-num-inst": 1
 }
