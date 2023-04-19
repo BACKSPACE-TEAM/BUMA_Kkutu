@@ -66,12 +66,11 @@ Server.set('view engine', "pug");
 Server.use(Express.static(__dirname + "/public"));
 Server.use(Parser.urlencoded({ extended: true }));
 Server.use(Exession({
-	/* use only for redis-installed
 
-	store: new Redission({
+	store: new Redission({ //주석 해제 (클러스터링을 위함.)
 		client: Redis.createClient(),
 		ttl: 3600 * 12
-	}),*/
+	}),
 	secret: 'kkutu',
 	resave: false,
 	saveUninitialized: true
