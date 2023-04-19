@@ -1,8 +1,15 @@
-## BUMA Kkutu
----
+## BUMA Kkutu   
 부마끄투는 부산소프트웨어마이스터고등학교 학생들을 위해 제작된 끄투서버 입니다.
 ---
-Commit Rule
+
+## Developer
+|안성해|
+|:------:|
+|<img  src="https://avatars.githubusercontent.com/u/58692441?v=4"  width="150"  height="150"/>|
+|FullStack|
+|BSSM 1-4|
+
+## Commit Rule
 
 feat : 새로운 기능 추가  
 fix : 버그 수정  
