@@ -3,7 +3,7 @@ const config = require('../../sub/auth.json');
 module.exports.config = {
     strategy: require('passport-bssm').Strategy, // example: naver, require strategy
     color: '#000000', // example: #1EC800
-    fontColor: '#FFFFFF', //example: #FFFFFF
+    fontColor: '#FFFF00', //example: #FFFFFF
     vendor: '', // example: naver
     displayName: 'bssm'
 }
