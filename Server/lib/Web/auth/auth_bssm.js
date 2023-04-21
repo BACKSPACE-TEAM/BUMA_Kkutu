@@ -5,7 +5,7 @@ module.exports.config = {
     color: '#000000', // example: #1EC800
     fontColor: '#FFFF00', //example: #FFFFFF
     vendor: '', // example: naver
-    displayName: 'bssm'
+    displayName: 'withBssm'
 }
 
 module.exports.strategyConfig = { // example: naver
