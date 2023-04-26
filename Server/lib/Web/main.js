@@ -248,9 +248,9 @@ Server.get("/", function(req, res){
 			'EN_THEME': Const.EN_THEME,
 			'IJP_EXCEPT': Const.IJP_EXCEPT,
 			'ogImage': "http://kkutu.kr/img/kkutu/logo.png",
-			'ogURL': "http://kkutu.kr/",
-			'ogTitle': "",
-			'ogDescription': "끝말잇기가 이렇게 박진감 넘치는 게임이었다니!"
+			'ogURL': "http://bssmkkutu.kro.kr",
+			'ogTitle': "부마끄투 - 학교에서 언제나, 어디서나",
+			'ogDescription': "학교에서 자유롭게 끄투를 즐겨보세요"
 		});
 	}
 });
