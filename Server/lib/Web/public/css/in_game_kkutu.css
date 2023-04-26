@@ -875,7 +875,7 @@ iframe{
 	background-color: inherit;
 }
 .ADBox .product-body{
-	padding-left: 131px;
+	padding-left: 0;
 }
 
 @keyframes RoundEffect{
